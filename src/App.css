@@ -1,0 +1,5 @@
+/* Use the standard text-size-adjust property */
+*{
+
+  text-size-adjust: none;
+}
